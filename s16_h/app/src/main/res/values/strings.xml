@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">s16_h</string>
+    <string name="system_name">貨物價格管理系統</string>
+    <string name="txtNum">貨物標號</string>
+    <string name="txtNewNum">下一筆貨物標號</string>
+    <string name="txt_cargo_modify">貨物調整單</string>
+    <string name="txtItem">品名：</string>
+    <string name="txtPrice">價格：</string>
+    <string name="btnAdd">新增</string>
+    <string name="btnQuery">查詢</string>
+    <string name="btnList">查詢所有</string>
+
+    <string name="btnClear">重置資料庫(不可逆)</string>
+    <string name="btnClearFinal">重置(危險)</string>
+    <string name="alert_Clear_message">重置資料庫是一個不可逆轉的行為！確定重置嗎?</string>
+    <string name="btnDelete">刪除</string>
+    <string name="btnModify">修改</string>
+    <string name="btnCancel">取消</string>
+    <string name="alert_delete_title">刪除確認</string>
+    <string name="alert_delete_message">確定要刪除該貨物資料嗎?\n(操作不可復原)</string>
+    <string name="alert_delete_toast">刪除成功</string>
+    <string name="alert_modify_title">修改確認</string>
+    <string name="alert_modify_message">確定要修改該貨物資料嗎?\n(操作不可復原)</string>
+    <string name="alert_modify_toast">修改成功</string>
+
+    <string name="msg1">請輸入要新增的資料</string>
+    <string name="msg2">新增資料完成！</string>
+    <string name="msg3">請輸入要查詢的資料</string>
+    <string name="msg_no_item">找不到包含此品名的資料。</string>
+    <string name="msg_no_price">找不到價格相同的資料。</string>
+    <string name="msg_data_found">資料查詢成功！</string>
+    <string name="no_this_data">沒有這筆資料！</string>
+    <string name="no_data">沒有資料！</string>
+</resources>
